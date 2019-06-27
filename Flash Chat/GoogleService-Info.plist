@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>965124442612-rt8gm00g6hk5p6ta38djd9dacd4b300c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.965124442612-rt8gm00g6hk5p6ta38djd9dacd4b300c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbdQY_-Mtxs15UsYZs-b7PO-lv0Ugcw3Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>965124442612</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brendan.Chatty-Cat</string>
+	<key>PROJECT_ID</key>
+	<string>chattycat-fc321</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chattycat-fc321.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:965124442612:ios:fc5c14b09a24ba52</string>
+	<key>DATABASE_URL</key>
+	<string>https://chattycat-fc321.firebaseio.com</string>
+</dict>
+</plist>
