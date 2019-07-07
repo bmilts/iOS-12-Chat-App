@@ -7,7 +7,7 @@ Using Swift, Xcode and Firebase to build a chat application where users can sign
 ## Sample User Flow
 
 <img src="register.gif" width="170" height="350" /> 
-<img src="login.gif" width="170" height="280" />
+<img src="login.gif" width="170" height="350" />
 
 ## Features
 
