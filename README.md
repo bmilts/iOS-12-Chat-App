@@ -4,19 +4,19 @@ Application completed to learn Swift programming while integrating a firebase in
 ## Description
 Using Swift, Xcode and Firebase to build a chat application where users can sign up, login and chat.
 
+## Project content
+
+* Save data to firebase
+* Register Users
+* Completion handlers and closures
+* Navigation Controllers
+* UIAnimations for keyboard rise and fall
+* Project spinner using Objective-C library
+
 ## Sample User Flow
 
 <img src="register.gif" width="170" height="350" /> 
 <img src="login.gif" width="170" height="350" />
-
-## Features
-
-* Sign Up/Login (Username and Password stored and retrieved using firebase)
-* Chat functionality between limited users
-
-## Future Functionality
-- Allow for users to view own photos as well as others
-- Allow for geolocation functionality
 
 ## Known Issues or Bugs
 - Keyboard dissapears on some devices  
