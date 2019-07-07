@@ -1,20 +1,22 @@
 # Cat Themed Chat App
-
+Application completed to learn Swift programming while integrating a firebase instance for authentication and chat sharing. 
 
 ## Description
+Using Swift, Xcode and Firebase to build a chat application where users can sign up, login and chat.
 
+## Sample User Flow
 
-## Screenshots
-
-<img src="/titlepage.png"  width="325" /> <img src="/ml.png"  width="325" /> <img src="/ar.png"  width="325" /> 
+<img src="register.gif" width="170" height="280" /><img src="login.gif" width="170" height="280" />
 
 ## Features
 
-* Apply a pre-trained machine learning model using coreml to photographs
+* Sign Up/Login (Username and Password stored and retrieved using firebase)
+* Chat functionality between limited users
 
+## Future Functionality
+- Allow for users to view own photos as well as others
+- Allow for geolocation functionality
 
-## Project Information
-- category: Mobile Prototype
-- author: Brendan Milton
-- description: 
-- stack: Swift/Firebase
+## Known Issues or Bugs
+- Keyboard dissapears on some devices  
+
